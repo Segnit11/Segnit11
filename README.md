@@ -1,8 +1,7 @@
 # 💫 About Me:
 👨‍💻 Passionate Full Stack Software Developer | Transforming Ideas into Code Masterpieces 
 🚀<br>Greetings! I'm Segni Tulu, a devoted full-stack software developer and computer science major at Concordia College. 
-I am a dynamic and dedicated software developer with a fervor for coding and a knack for crafting immersive websites. 
-My journey in the world of technology is fueled by a genuine love for turning innovative ideas into reality through the power of code. 💻🌐
+I am a dynamic and dedicated software developer😃✊ with a fervor for coding and a knack for crafting immersive websites🖥💻🌐. My journey in the world of technology is fueled by a genuine love for turning innovative ideas💡 into reality through the power of code. 👨‍💻💻🌐
 
 
 ## 🌐 Socials:
