@@ -1,4 +1,4 @@
-  # 💫 Hello, I'm Segni Tulu👨‍💻 
+>                       # 💫 Hello, I'm Segni Tulu👨‍💻 
 
 # Passionate Full Stack Software Developer | Transforming Ideas into Code Masterpieces 
 
